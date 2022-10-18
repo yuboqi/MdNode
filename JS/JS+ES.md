@@ -345,7 +345,7 @@
 
 # ES6
 
-## 	let特点
+## 	let特点 
 
 ![image-20220707104529381](C:\Users\22476\AppData\Roaming\Typora\typora-user-images\image-20220707104529381.png)****
 
