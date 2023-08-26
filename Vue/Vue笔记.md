@@ -1,6 +1,6 @@
 # 笔记和代码在
 
-![image-20220713145733672](C:\Users\22476\AppData\Roaming\Typora\typora-user-images\image-20220713145733672.png)
+![image-20220713145733672](.\picture\image-20220713145733672.png)
 
 
 
@@ -12,7 +12,7 @@
 
 ### 		①v-bind单向数据绑定
 
-![image-20220708144253679](C:\Users\22476\AppData\Roaming\Typora\typora-user-images\image-20220708144253679.png)
+![image-20220708144253679](.\picture\image-20220708144253679.png)
 
 ```html
     <div class="root">
@@ -43,7 +43,7 @@
 
 ### 		:star:②v-model双向绑定
 
-![image-20220708151351267](C:\Users\22476\AppData\Roaming\Typora\typora-user-images\image-20220708151351267.png)
+![image-20220708151351267](.\picture\image-20220708151351267.png)
 
 ```html
     <div id="text">
@@ -60,7 +60,7 @@
 
 ## data和el的两种写法
 
-![image-20220708153010385](C:\Users\22476\AppData\Roaming\Typora\typora-user-images\image-20220708153010385.png)
+![image-20220708153010385](.\picture\image-20220708153010385.png)
 
 
 
@@ -95,11 +95,11 @@
 
 ## :star:MVVM模型
 
-![image-20220708154154894](C:\Users\22476\AppData\Roaming\Typora\typora-user-images\image-20220708154154894.png)
+![image-20220708154154894](.\picture\image-20220708154154894.png)
 
-![image-20220708154655937](C:\Users\22476\AppData\Roaming\Typora\typora-user-images\image-20220708154655937.png)
+![image-20220708154655937](.\picture\image-20220708154655937.png)
 
-![image-20220708155145254](C:\Users\22476\AppData\Roaming\Typora\typora-user-images\image-20220708155145254.png)
+![image-20220708155145254](.\picture\image-20220708155145254.png)
 
 
 
@@ -130,11 +130,11 @@
 
 
 
-![image-20220708164202872](C:\Users\22476\AppData\Roaming\Typora\typora-user-images\image-20220708164202872.png)
+![image-20220708164202872](.\picture\image-20220708164202872.png)
 
 **用obj2.x =124，来修改x的值会调用set方法，将set的value值赋值给obj.x来实现数据代理**
 
-![image-20220708171123517](C:\Users\22476\AppData\Roaming\Typora\typora-user-images\image-20220708171123517.png)
+![image-20220708171123517](.\picture\image-20220708171123517.png)
 
 
 
@@ -142,7 +142,7 @@
 
 ### 	①事件的基本使用
 
-![image-20220708174051384](C:\Users\22476\AppData\Roaming\Typora\typora-user-images\image-20220708174051384.png)
+![image-20220708174051384](.\picture\image-20220708174051384.png)
 
 ```html
 <body>
@@ -182,7 +182,7 @@
 
 ### 	:star:②事件修饰符（可连写 .prevent.stop）
 
-![image-20220708174330633](C:\Users\22476\AppData\Roaming\Typora\typora-user-images\image-20220708174330633.png)
+![image-20220708174330633](.\picture\image-20220708174330633.png)
 
 ```js
 <body>
@@ -210,23 +210,23 @@
 
 ### 	:star:③键盘事件（可连写 @keyup.ctrl.y）
 
-![image-20220708195340682](C:\Users\22476\AppData\Roaming\Typora\typora-user-images\image-20220708195340682.png)
+![image-20220708195340682](.\picture\image-20220708195340682.png)
 
-![image-20220708194858277](C:\Users\22476\AppData\Roaming\Typora\typora-user-images\image-20220708194858277.png)
+![image-20220708194858277](.\picture\image-20220708194858277.png)
 
-![image-20220708195119495](C:\Users\22476\AppData\Roaming\Typora\typora-user-images\image-20220708195119495.png)
+![image-20220708195119495](.\picture\image-20220708195119495.png)
 
 
 
 ## 计算属性与监视
 
-![image-20220708205141218](C:\Users\22476\AppData\Roaming\Typora\typora-user-images\image-20220708205141218.png)
+![image-20220708205141218](.\picture\image-20220708205141218.png)
 
-![image-20220708205830692](C:\Users\22476\AppData\Roaming\Typora\typora-user-images\image-20220708205830692.png)
+![image-20220708205830692](.\picture\image-20220708205830692.png)
 
 
 
-![image-20220708205813175](C:\Users\22476\AppData\Roaming\Typora\typora-user-images\image-20220708205813175.png)
+![image-20220708205813175](.\picture\image-20220708205813175.png)
 
 ### 	①用插值语法完成案例
 
@@ -324,7 +324,7 @@
 
 ### 	①天气案例
 
-![image-20220709094924414](C:\Users\22476\AppData\Roaming\Typora\typora-user-images\image-20220709094924414.png)
+![image-20220709094924414](.\picture\image-20220709094924414.png)
 
 ```js
 <body>
@@ -359,7 +359,7 @@
 
 ### 	:star:②监视属性
 
-![image-20220709095750905](C:\Users\22476\AppData\Roaming\Typora\typora-user-images\image-20220709095750905.png)
+![image-20220709095750905](.\picture\image-20220709095750905.png)
 
 ```js
   <body>
@@ -412,7 +412,7 @@
 
 ### :exclamation:	③深度监视deep
 
-![image-20220709101347452](C:\Users\22476\AppData\Roaming\Typora\typora-user-images\image-20220709101347452.png)
+![image-20220709101347452](.\picture\image-20220709101347452.png)
 
 ```
   <body>
@@ -452,15 +452,15 @@
 
 #### 	条件：当监测不需要immediate和deep时可以简写
 
-![image-20220709102508274](C:\Users\22476\AppData\Roaming\Typora\typora-user-images\image-20220709102508274.png)
+![image-20220709102508274](.\picture\image-20220709102508274.png)
 
-![image-20220709102959036](C:\Users\22476\AppData\Roaming\Typora\typora-user-images\image-20220709102959036.png)
+![image-20220709102959036](.\picture\image-20220709102959036.png)
 
 
 
 ## :exclamation:computed和watch区别
 
-![image-20220709104611193](C:\Users\22476\AppData\Roaming\Typora\typora-user-images\image-20220709104611193.png)
+![image-20220709104611193](.\picture\image-20220709104611193.png)
 
 
 
@@ -470,33 +470,33 @@
 
 ### 	⭐️ `:star:`①绑定class样式(字符串写法)
 
-![image-20220709105314972](C:\Users\22476\AppData\Roaming\Typora\typora-user-images\image-20220709105314972.png)
+![image-20220709105314972](.\picture\image-20220709105314972.png)
 
 ### 	⭐️ `:star:`②class绑定(数组写法)
 
-![image-20220709110736742](C:\Users\22476\AppData\Roaming\Typora\typora-user-images\image-20220709110736742.png)
+![image-20220709110736742](.\picture\image-20220709110736742.png)
 
 
 
 ### 	③class绑定(对象写法)
 
-![image-20220709111113763](C:\Users\22476\AppData\Roaming\Typora\typora-user-images\image-20220709111113763.png)
+![image-20220709111113763](.\picture\image-20220709111113763.png)
 
 
 
 ### 	④style绑定(不常用)
 
-![image-20220709111726845](C:\Users\22476\AppData\Roaming\Typora\typora-user-images\image-20220709111726845.png)
+![image-20220709111726845](.\picture\image-20220709111726845.png)
 
-![image-20220709111804908](C:\Users\22476\AppData\Roaming\Typora\typora-user-images\image-20220709111804908.png)	
+![image-20220709111804908](.\picture\image-20220709111804908.png)	
 
 
 
 ## :star:条件渲染
 
-![image-20220709113755482](C:\Users\22476\AppData\Roaming\Typora\typora-user-images\image-20220709113755482.png)
+![image-20220709113755482](.\picture\image-20220709113755482.png)
 
-![image-20220709112947146](C:\Users\22476\AppData\Roaming\Typora\typora-user-images\image-20220709112947146.png)
+![image-20220709112947146](.\picture\image-20220709112947146.png)
 
 **v-show 的逻辑是改变display的属性值来进行渲染**
 
@@ -504,7 +504,7 @@
 
 
 
-![image-20220709113259610](C:\Users\22476\AppData\Roaming\Typora\typora-user-images\image-20220709113259610.png)
+![image-20220709113259610](.\picture\image-20220709113259610.png)
 
 **v-if  v-else-if不允许被中途加上东西打断，如图则div  @下面的v-else-if属性失效**
 
@@ -512,7 +512,7 @@
 
 ### v-if和template配合使用
 
-![image-20220709113607524](C:\Users\22476\AppData\Roaming\Typora\typora-user-images\image-20220709113607524.png)
+![image-20220709113607524](.\picture\image-20220709113607524.png)
 
 **template模板的使用在渲染后不会保留template标签，这样不会影响dom结构，只能配合v-if使用**
 
@@ -522,7 +522,7 @@
 
 ### 	①基本列表
 
-​	![image-20220709151242701](C:\Users\22476\AppData\Roaming\Typora\typora-user-images\image-20220709151242701.png)
+​	![image-20220709151242701](.\picture\image-20220709151242701.png)
 
 
 
@@ -530,7 +530,7 @@
 
 
 
-![image-20220709152834491](C:\Users\22476\AppData\Roaming\Typora\typora-user-images\image-20220709152834491.png)
+![image-20220709152834491](.\picture\image-20220709152834491.png)
 
 **当以index作为key时，如果新增数据的数据打乱排列顺序，则会导致文本错乱情况，而且还重复地有已经存在的数据产生，极大的影响了内存和速度，当然如果不写key，Vue会自动以index索引值作为key**
 
@@ -538,7 +538,7 @@
 
 ### 	⭐️ `:star:`③key的作用与原理(id作为key)
 
-![image-20220709153115714](C:\Users\22476\AppData\Roaming\Typora\typora-user-images\image-20220709153115714.png)
+![image-20220709153115714](.\picture\image-20220709153115714.png)
 
 
 
@@ -578,9 +578,9 @@
 
 ### 	⭐️ `:star:`④for in  和 for  of区别
 
-![image-20220709154517930](C:\Users\22476\AppData\Roaming\Typora\typora-user-images\image-20220709154517930.png)
+![image-20220709154517930](.\picture\image-20220709154517930.png)
 
-![image-20220709155126116](C:\Users\22476\AppData\Roaming\Typora\typora-user-images\image-20220709155126116.png)
+![image-20220709155126116](.\picture\image-20220709155126116.png)
 
 
 
@@ -738,7 +738,7 @@
 
 ## :exclamation:Vue监测数据的原理：
 
-![image-20220709201853991](C:\Users\22476\AppData\Roaming\Typora\typora-user-images\image-20220709201853991.png)
+![image-20220709201853991](.\picture\image-20220709201853991.png)
 
 
 
@@ -746,11 +746,11 @@
 
 #### Vue无法让用户直接通过数组的索引值将修改的数据直接完成响应式，只能通过系列Vue的数组方法来修改值(该方法为Vue通过数组对象Array包装过后的方法)，当然也能通过set方法来实现修改。
 
-![image-20220709200025041](C:\Users\22476\AppData\Roaming\Typora\typora-user-images\image-20220709200025041.png)
+![image-20220709200025041](.\picture\image-20220709200025041.png)
 
-![image-20220709200352107](C:\Users\22476\AppData\Roaming\Typora\typora-user-images\image-20220709200352107.png)
+![image-20220709200352107](.\picture\image-20220709200352107.png)
 
-![image-20220709200448491](C:\Users\22476\AppData\Roaming\Typora\typora-user-images\image-20220709200448491.png)
+![image-20220709200448491](.\picture\image-20220709200448491.png)
 
 
 
@@ -758,7 +758,7 @@
 
 ## :star:收集表单数据
 
-![image-20220710092304516](C:\Users\22476\AppData\Roaming\Typora\typora-user-images\image-20220710092304516.png)
+![image-20220710092304516](.\picture\image-20220710092304516.png)
 
 ```js
 <body>
@@ -820,7 +820,7 @@
 
 ## :star:过滤器
 
-![image-20220710095831126](C:\Users\22476\AppData\Roaming\Typora\typora-user-images\image-20220710095831126.png)
+![image-20220710095831126](.\picture\image-20220710095831126.png)
 
 ```js
 <body>
@@ -874,17 +874,17 @@
 
 ## :exclamation:Vue内置指令
 
-![image-20220710102028598](C:\Users\22476\AppData\Roaming\Typora\typora-user-images\image-20220710102028598.png)
+![image-20220710102028598](.\picture\image-20220710102028598.png)
 
 
 
-![image-20220710103545886](C:\Users\22476\AppData\Roaming\Typora\typora-user-images\image-20220710103545886.png)
+![image-20220710103545886](.\picture\image-20220710103545886.png)
 
-![image-20220710104404169](C:\Users\22476\AppData\Roaming\Typora\typora-user-images\image-20220710104404169.png)
+![image-20220710104404169](.\picture\image-20220710104404169.png)
 
-![image-20220710104354121](C:\Users\22476\AppData\Roaming\Typora\typora-user-images\image-20220710104354121.png)
+![image-20220710104354121](.\picture\image-20220710104354121.png)
 
-![image-20220710104618492](C:\Users\22476\AppData\Roaming\Typora\typora-user-images\image-20220710104618492.png)
+![image-20220710104618492](.\picture\image-20220710104618492.png)
 
 ```js
     <div id="root">
@@ -907,13 +907,13 @@
     })
 ```
 
-![image-20220710105052234](C:\Users\22476\AppData\Roaming\Typora\typora-user-images\image-20220710105052234.png)
+![image-20220710105052234](.\picture\image-20220710105052234.png)
 
 
 
 ## :star:自定义指令
 
-![image-20220710161021044](C:\Users\22476\AppData\Roaming\Typora\typora-user-images\image-20220710161021044.png)
+![image-20220710161021044](.\picture\image-20220710161021044.png)
 
 ```js
 <body>
@@ -989,13 +989,13 @@
 
 ## :exclamation:生命周期
 
-![image-20220710165507367](C:\Users\22476\AppData\Roaming\Typora\typora-user-images\image-20220710165507367.png)
+![image-20220710165507367](.\picture\image-20220710165507367.png)
 
 ### 	呼吸灯实例
 
-![image-20220710165613800](C:\Users\22476\AppData\Roaming\Typora\typora-user-images\image-20220710165613800.png)
+![image-20220710165613800](.\picture\image-20220710165613800.png)
 
-![image-20220710165543079](C:\Users\22476\AppData\Roaming\Typora\typora-user-images\image-20220710165543079.png)
+![image-20220710165543079](.\picture\image-20220710165543079.png)
 
 ```js
 <body>//未实现销毁效果，也没能关闭定时器
@@ -1035,9 +1035,9 @@
 </script>
 ```
 
-![image-20220710192516860](C:\Users\22476\AppData\Roaming\Typora\typora-user-images\image-20220710192516860.png)
+![image-20220710192516860](.\picture\image-20220710192516860.png)
 
-![image-20220710193630374](C:\Users\22476\AppData\Roaming\Typora\typora-user-images\image-20220710193630374.png)
+![image-20220710193630374](.\picture\image-20220710193630374.png)
 
 ```js
 <body>//完成销毁效果，关闭定时器
@@ -1081,15 +1081,15 @@
 
 ## :star:组件的定义
 
-![image-20220711085849923](C:\Users\22476\AppData\Roaming\Typora\typora-user-images\image-20220711085849923.png)
+![image-20220711085849923](.\picture\image-20220711085849923.png)
 
-![image-20220710195914829](C:\Users\22476\AppData\Roaming\Typora\typora-user-images\image-20220710195914829.png)
+![image-20220710195914829](.\picture\image-20220710195914829.png)
 
-![image-20220710200029421](C:\Users\22476\AppData\Roaming\Typora\typora-user-images\image-20220710200029421.png)
+![image-20220710200029421](.\picture\image-20220710200029421.png)
 
-![image-20220710200036162](C:\Users\22476\AppData\Roaming\Typora\typora-user-images\image-20220710200036162.png)
+![image-20220710200036162](.\picture\image-20220710200036162.png)
 
-![image-20220710200048434](C:\Users\22476\AppData\Roaming\Typora\typora-user-images\image-20220710200048434.png)
+![image-20220710200048434](.\picture\image-20220710200048434.png)
 
 ```html
 <body>
@@ -1145,7 +1145,7 @@
 
 ## :star:组件的嵌套
 
-![image-20220711093153090](C:\Users\22476\AppData\Roaming\Typora\typora-user-images\image-20220711093153090.png)
+![image-20220711093153090](.\picture\image-20220711093153090.png)
 
 ```Vue
 <body>
@@ -1231,7 +1231,7 @@
 
 ## :exclamation:VueComponent
 
-![image-20220711104035925](C:\Users\22476\AppData\Roaming\Typora\typora-user-images\image-20220711104035925.png)
+![image-20220711104035925](.\picture\image-20220711104035925.png)
 
 
 
@@ -1239,29 +1239,29 @@
 
 ## :exclamation:Vue和Component的关系
 
-![image-20220711110649224](C:\Users\22476\AppData\Roaming\Typora\typora-user-images\image-20220711110649224.png)
+![image-20220711110649224](.\picture\image-20220711110649224.png)
 
 
 
 ## :exclamation:三、使用Vue脚手架
 
-![image-20220711160027786](C:\Users\22476\AppData\Roaming\Typora\typora-user-images\image-20220711160027786.png)
+![image-20220711160027786](.\picture\image-20220711160027786.png)
 
-![image-20220711160906360](C:\Users\22476\AppData\Roaming\Typora\typora-user-images\image-20220711160906360.png)
+![image-20220711160906360](.\picture\image-20220711160906360.png)
 
-![image-20220711160927153](C:\Users\22476\AppData\Roaming\Typora\typora-user-images\image-20220711160927153.png)
+![image-20220711160927153](.\picture\image-20220711160927153.png)
 
-![image-20220711160936174](C:\Users\22476\AppData\Roaming\Typora\typora-user-images\image-20220711160936174.png)
+![image-20220711160936174](.\picture\image-20220711160936174.png)
 
 
 
 ## :star:ref属性
 
-![image-20220711163910974](C:\Users\22476\AppData\Roaming\Typora\typora-user-images\image-20220711163910974.png)
+![image-20220711163910974](.\picture\image-20220711163910974.png)
 
-![image-20220711163947829](C:\Users\22476\AppData\Roaming\Typora\typora-user-images\image-20220711163947829.png)
+![image-20220711163947829](.\picture\image-20220711163947829.png)
 
-![image-20220711163822107](C:\Users\22476\AppData\Roaming\Typora\typora-user-images\image-20220711163822107.png)
+![image-20220711163822107](.\picture\image-20220711163822107.png)
 
 ```vue
 <template>
@@ -1299,7 +1299,7 @@ export default {
 
 ## :star:props配置
 
-![image-20220711193451098](C:\Users\22476\AppData\Roaming\Typora\typora-user-images\image-20220711193451098.png)
+![image-20220711193451098](.\picture\image-20220711193451098.png)
 
 ```vue
 
@@ -1373,7 +1373,7 @@ export default {
 </script>
 ```
 
-![image-20220711195102818](C:\Users\22476\AppData\Roaming\Typora\typora-user-images\image-20220711195102818.png)
+![image-20220711195102818](.\picture\image-20220711195102818.png)
 
 
 
@@ -1383,7 +1383,7 @@ export default {
 
 ## :star:mixin混入
 
-![image-20220711202428144](C:\Users\22476\AppData\Roaming\Typora\typora-user-images\image-20220711202428144.png)
+![image-20220711202428144](.\picture\image-20220711202428144.png)
 
 ```vue
 Student.vue
@@ -1427,13 +1427,13 @@ export const mixin = {
 
 ## :star:Vue插件
 
-![image-20220712094417459](C:\Users\22476\AppData\Roaming\Typora\typora-user-images\image-20220712094417459.png)
+![image-20220712094417459](.\picture\image-20220712094417459.png)
 
 
 
 ## :exclamation:scoped样式
 
-![image-20220712095506145](C:\Users\22476\AppData\Roaming\Typora\typora-user-images\image-20220712095506145.png)
+![image-20220712095506145](.\picture\image-20220712095506145.png)
 
 
 
@@ -1573,7 +1573,7 @@ export const mixin = {
 
 2. 图示：
 
-   ![image-20220715150346579](C:\Users\22476\AppData\Roaming\Typora\typora-user-images\image-20220715150346579.png)
+   ![image-20220715150346579](.\picture\image-20220715150346579.png)
 
 3. 写法：
 
@@ -2397,18 +2397,18 @@ new Vue({
 
    3. 应用部署上线时需要后端人员支持，解决刷新页面服务端404的问题。
 
-      ​													 ![image-20220718204937594](C:\Users\22476\AppData\Roaming\Typora\typora-user-images\image-20220718204937594.png)
+      ​													 ![image-20220718204937594](.\picture\image-20220718204937594.png)
 
-      ![image-20220718205003015](C:\Users\22476\AppData\Roaming\Typora\typora-user-images\image-20220718205003015.png)
+      ![image-20220718205003015](.\picture\image-20220718205003015.png)
 
 
-![image-20220718204922934](C:\Users\22476\AppData\Roaming\Typora\typora-user-images\image-20220718204922934.png)
+![image-20220718204922934](.\picture\image-20220718204922934.png)
 
-![image-20220718205037468](C:\Users\22476\AppData\Roaming\Typora\typora-user-images\image-20220718205037468.png)
+![image-20220718205037468](.\picture\image-20220718205037468.png)
 
-![image-20220718205054977](C:\Users\22476\AppData\Roaming\Typora\typora-user-images\image-20220718205054977.png)
+![image-20220718205054977](.\picture\image-20220718205054977.png)
 
-![image-20220718204753781](C:\Users\22476\AppData\Roaming\Typora\typora-user-images\image-20220718204753781.png)
+![image-20220718204753781](.\picture\image-20220718204753781.png)
 
 
 
@@ -2416,4 +2416,4 @@ new Vue({
 
 ## :star:组件库
 
-![image-20220718205150175](C:\Users\22476\AppData\Roaming\Typora\typora-user-images\image-20220718205150175.png)
+![image-20220718205150175](.\picture\image-20220718205150175.png)
